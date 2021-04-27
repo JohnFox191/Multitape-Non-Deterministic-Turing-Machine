@@ -1,3 +1,50 @@
+# Para compilar, descarregar o zip
+# jar cMf turingMachine.jar META-INF ist -> cria o jar
+# java -jar turingMachine.jar -> corre a máquina de turing com output numa consola
+
+Edits: 
+- Em modo "Run at full speed" atualiza visualmente os estados apenas a cada 50 steps, não atualiza visualmente o log
+- Fora de modo "Run at full speed" atualiza visualmente os estados a cada step
+- Tornei as secção "Tapes" selecionáveis para não ter que estar a copiar o resultado das máquinas á mão
+
+O funcionamento da máquina continua inalterado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Multitape Non Deterministic Turing Machine Simulator
 An ```accept state``` seeking multitape non deterministic Turing machine simulator allows you to write and execute any Turing machine program with respect to **Syntax** and with no constraints on the amount of tapes used. In non deterministic cases it uses [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) to find a path to a halting state, preferably a halt-accept state.
 
