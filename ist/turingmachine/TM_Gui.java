@@ -90,7 +90,7 @@ public class TM_Gui {
         StyleConstants.setFontSize(attribs, 25);
         paneTapesOutput.setParagraphAttributes(attribs, true);
         paneTapesOutput.setEditable(false);
-        paneTapesOutput.setFocusable(false);
+        paneTapesOutput.setFocusable(true);
         outputScroll = new JScrollPane(paneTapesOutput);
         outputScroll.getViewport().setBorder(null);
         outputScroll.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED);
