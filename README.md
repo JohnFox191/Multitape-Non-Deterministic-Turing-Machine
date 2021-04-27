@@ -5,7 +5,7 @@
 Edits: 
 - Em modo "Run at full speed" atualiza visualmente os estados apenas a cada 50 steps, não atualiza visualmente o log
 - Fora de modo "Run at full speed" atualiza visualmente os estados a cada step
-- Tornei as secção "Tapes" selecionáveis para não ter que estar a copiar o resultado das máquinas á mão
+- Tornei as "Tapes" selecionáveis para não ter que estar a copiar o resultado das máquinas á mão
 
 O funcionamento da máquina continua inalterado
 
