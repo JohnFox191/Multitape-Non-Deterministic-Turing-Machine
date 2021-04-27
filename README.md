@@ -1,4 +1,4 @@
-# Para compilar, descarregar o zip
+# Descarregar o zip, compilar os .java no interior de ist/turingmachine
 # jar cMf turingMachine.jar META-INF ist -> cria o jar
 # java -jar turingMachine.jar -> corre a máquina de turing com output numa consola
 
@@ -9,13 +9,11 @@ Edits:
 
 O funcionamento da máquina continua inalterado
 
-
-
-
-
-
-
-
+# créditos ao repositório original, nenhum código relativo ao funcionamento é meu
+#
+#
+#
+#
 
 
 
