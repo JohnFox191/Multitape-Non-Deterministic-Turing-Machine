@@ -359,6 +359,7 @@ public class TM_Run extends TM_Gui implements Runnable {
                 execution_clones.remove(0);
             }
             else {
+                draw2(execution_clones.get(execution_clones.size() - 1));
                 halt(execution_clones.get(execution_clones.size() - 1), last_state);
                 queue.remove(0);
             }

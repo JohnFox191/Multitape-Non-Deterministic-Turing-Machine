@@ -1,0 +1,1 @@
+jar cMf turingMachine.jar META-INF ist
